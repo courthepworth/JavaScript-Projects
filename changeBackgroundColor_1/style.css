@@ -1,0 +1,15 @@
+body {
+  background-color: #e6d27d;
+}
+
+button {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 7em;
+  height: 3em;
+  background-color: rgb(31, 151, 231);
+  border-radius: 10%;
+}
